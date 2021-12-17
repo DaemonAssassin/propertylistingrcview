@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PropertyListing</string>
+
+    <string name="commercial_bathrooms">2\nBathrooms</string>
+    <string name="lush_apartment_bathrooms">3\nBathrooms</string>
+    <string name="multi_family_bathrooms">3\nBathrooms</string>
+    <string name="multi_national_bathrooms">2\nBathrooms</string>
+    <string name="residential_plot_bathrooms">3\nBathrooms</string>
+    <string name="residential_villa_bathrooms">1\nBathrooms</string>
+    <string name="shop_area_bathrooms">1\nBathrooms</string>
+    <string name="family_area_bathrooms">2\nBathrooms</string>
+    <string name="studio_plot_bathrooms">2\nBathrooms</string>
+
+    <string name="commercial_car_parking">1\nCar Parking</string>
+    <string name="lush_car_parking">2\nCar Parking</string>
+    <string name="multi_family_parking">2\nCar Parking</string>
+    <string name="multi_national_car_parking">1\nCar Parking</string>
+    <string name="residential_plot_car_parking">1\nCar Parking</string>
+    <string name="residential_villa_car_parking">2\nCar Parking</string>
+    <string name="shop_area_car_parking">1\nCar Parking</string>
+    <string name="family_area_car_parking">2\nCar Parking</string>
+    <string name="studio_plot_car_parking">2\nCar Parking</string>
+
+    <string name="commercial_bedrooms">3\nBedrooms</string>
+    <string name="lush_bedrooms">4\nBedrooms</string>
+    <string name="multi_family_bedrooms">6\nBedrooms</string>
+    <string name="multi_national_bedrooms">3\nBedrooms</string>
+    <string name="residential_plot_bedrooms">4\nBedrooms</string>
+    <string name="residential_villa_bedrooms">3\nBedrooms</string>
+    <string name="shop_area_bedrooms">1\nBedrooms</string>
+    <string name="family_area_bedrooms">2\nBedrooms</string>
+    <string name="studio_plot_bedrooms">2\nBedrooms</string>
+</resources>
